@@ -1,0 +1,14 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    font-family: "Poppins", sans-serif;
+    background-color: burlywood;
+
+}
+.head{
+    color: darkred;
+    margin-top: 200px;
+    text-align: center;
+}
